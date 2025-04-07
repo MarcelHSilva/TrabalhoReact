@@ -1,0 +1,6 @@
+@TrabalhoReact_HostAddress = http://localhost:5137
+
+GET {{TrabalhoReact_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
